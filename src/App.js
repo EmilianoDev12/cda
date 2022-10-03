@@ -75,7 +75,7 @@ function App() {
             <path d="M9 15h12l-3 5h-12" />
             <path d="M15 15l-6 -10h6l6 10z" />
           </svg>
-          <a href='https://drive.google.com/drive/u/1/folders/1pZqNzj_QUuakLT48s_xHib6fGBmow0cq'>Download the IA</a>
+          <a href='https://drive.google.com/drive/folders/1pZqNzj_QUuakLT48s_xHib6fGBmow0cq?usp=sharing'>Download the IA</a>
         </center>
       </footer>
     </div>
